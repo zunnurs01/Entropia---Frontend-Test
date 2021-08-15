@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'DINOT';
+    src: url('DINOT.woff2') format('woff2'),
+        url('DINOT.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINCond';
+    src: url('DINCond-Bold.woff2') format('woff2'),
+        url('DINCond-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINPro';
+    src: url('DINPro-Black.woff2') format('woff2'),
+        url('DINPro-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINOT';
+    src: url('DINOT-Bold.woff2') format('woff2'),
+        url('DINOT-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINOT';
+    src: url('DINOT-Medium.woff2') format('woff2'),
+        url('DINOT-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINOT';
+    src: url('DINOT-Black.woff2') format('woff2'),
+        url('DINOT-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DIN';
+    src: url('DIN-Black.woff2') format('woff2'),
+        url('DIN-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINOT';
+    src: url('DINOT-Light.woff2') format('woff2'),
+        url('DINOT-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINPro';
+    src: url('DINPro-Bold.woff2') format('woff2'),
+        url('DINPro-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'DINPro';
+    src: url('DINPro-Regular.woff2') format('woff2'),
+        url('DINPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

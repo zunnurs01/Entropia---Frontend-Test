@@ -1,0 +1,111 @@
+body {
+  font-family: "DINCond";
+  font-style: normal;
+}
+
+.top-navbar {
+  a {
+    font-family: 'DINCond-Bold', 'swap', sans-serif;
+    font-weight: 800;
+    font-size: 12px;
+    padding: 0 7px;
+    float: left;
+    padding: 0 7px;
+    border-right: 1px solid #fff;
+    text-transform: uppercase;
+    display: block;
+    color: white;
+    letter-spacing: -0.087em;
+  }
+}
+
+.pillar-card{
+    background-color: rgb(1, 132, 255);
+    min-height: 300px;
+    padding-left: 1em;
+    padding-right: 1em;
+    font-family: 'DINPro',sans-serif;
+    color: white;
+    .logo{
+        padding: 1em 0;
+    }
+    .title{
+        font-size: 1.15em;
+        text-transform: uppercase;
+        letter-spacing: -0.041em;
+        font-weight: 600;
+    }
+
+    .divider{
+        margin: 0.5em 50% 0.5em 0;
+        border-top: 6px solid white;
+    }
+
+    .subtitle{
+        //Reserved for future use
+    }
+}
+
+.section-ceo{
+    background-color: #006ec7;
+    font-family: "DINOT", sans-serif;
+    min-height: 300px;
+    padding: 100px 0;
+    .title{
+        color: #fcdf2c;
+        text-transform: uppercase;
+        padding-bottom: 1em;
+        font-size: 2em;
+        font-weight: 600;
+    }
+    .subtitle{
+        color: rgba(255, 255, 255, 0.7);
+        font-weight: 300;
+        letter-spacing: 0.1em;
+        padding-bottom: 2em;
+    }
+    .name{
+        font-family: "DINOT-Bold", sans-serif;
+        text-transform: uppercase;
+        color: white;
+        font-weight: 600;
+    }
+    .position{
+        color: white;
+    }
+}
+
+.section-sustainability{
+    font-family: "DINOT", sans-serif;
+    min-height: 300px;
+    padding: 100px 50px;
+    .title{
+        color: #006ec7;
+        text-transform: uppercase;
+        font-size: 2em;
+        font-weight: 600;
+    }
+    .subtitle{
+        color: #131313;
+        font-weight: 300;
+        padding-bottom: 2em;
+    }
+    .card{
+        margin: 0 0 1em 1em;
+        .tag{
+            background-color: #006ec7;
+            color: white;
+            padding: 0 1em 0 1em;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+        .date{
+            color: #006ec7;
+            font-size: 12px;
+            font-weight: 600;
+            left: 0;
+            text-align: left;
+        }
+    }
+}
